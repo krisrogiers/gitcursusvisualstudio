@@ -10,7 +10,7 @@ namespace GitCursus
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bonjour tout le monde au Termonde");
+            Console.WriteLine("Dag iedereen in Dendermonde");
         }
     }
 }
